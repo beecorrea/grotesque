@@ -1,0 +1,6 @@
+{
+  "emmet.includeLanguages": {
+    "njk": "html",
+    "html.format.wrapLineLength": "120",
+  },
+}
